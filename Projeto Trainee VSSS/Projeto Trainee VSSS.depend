@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1574390043 source:c:\users\laracarolina\documents\vss\projeto trainee vsss\robots.cpp
+	"robots.h"
+
+1574390044 c:\users\laracarolina\documents\vss\projeto trainee vsss\robots.h
+
+1574398021 source:c:\users\laracarolina\documents\vss\projeto trainee vsss\main.cpp
+	<iostream>
+	"robots.h"
+	"game_functions.h"
+	<math.h>
+	"utils.h"
+
+1574397776 source:c:\users\laracarolina\documents\vss\projeto trainee vsss\utils.cpp
+	"utils.h"
+	<math.h>
+
+1574390044 c:\users\laracarolina\documents\vss\projeto trainee vsss\utils.h
+	"robots.h"
+
+1574397776 source:c:\users\laracarolina\documents\vss\projeto trainee vsss\game_functions.cpp
+	"game_functions.h"
+	<iostream>
+	<math.h>
+
+1574397776 c:\users\laracarolina\documents\vss\projeto trainee vsss\game_functions.h
+	<iostream>
+	"utils.h"
+
